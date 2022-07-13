@@ -8,4 +8,7 @@ Algoritmo EstadisticasEdades
 	Escribir "Ingrese la edad 1"
 	leer edad1
 	
+	Escribir "Ingrese la edad 2"
+	leer edad2
+	
 FinAlgoritmo
