@@ -5,6 +5,7 @@ Algoritmo EstadisticasEdades
 	Definir apellido Como Caracter
 	Definir iguales, mayorDeEdad Como Logico
 	
-	
+	Escribir "Ingrese la edad 1"
+	leer edad1
 	
 FinAlgoritmo
